@@ -1,0 +1,73 @@
+Título do Filme:
+- The Shawshank Redemption
+============================================
+Título da Série:
+- Breaking Bad
+============================================
+Recuperar o filme/série com maior nota (rating):
+- Breaking Bad (9.5)
+============================================
+Gêneros de todos os filmes e séries:
+
+Gêneros de The Shawshank Redemption:
+- Drama, Crime
+Gêneros de Breaking Bad:
+- Crime, Drama, Thriller
+============================================
+Número total de filmes e séries:
+- Total de Filmes: 1
+- Total de Séries: 1
+============================================
+Plataformas de Streaming Disponíveis:
+- Netflix, Amazon Prime
+============================================
+Filmes/séries disponíveis em 4K no Netflix:
+- The Shawshank Redemption
+- Breaking Bad
+============================================
+Identificar plataformas onde um filme específico está disponível:
+Filme: The Shawshank Redemption
+- Netflix: https://www.netflix.com/title/70005379
+============================================
+Todos os atores e os personagens que interpretam:
+- Tim Robbins como Andy Dufresne
+- Morgan Freeman como Ellis Boyd 'Red' Redding
+- Bryan Cranston como Walter White
+- Aaron Paul como Jesse Pinkman
+============================================
+Ator com maior salário: Morgan Freeman (Salário: 5,000,000.00)
+============================================
+Todas as localizações de filmagem dos filmes:
+Filme: The Shawshank Redemption
+- Mansfield, Ohio, Ashland, Ohio
+============================================
+Diretor do filme:
+- The Shawshank Redemption: Frank Darabont
+============================================
+Filme com maior receita na bilheteira (revenue):
+- The Shawshank Redemption ($28,341,469)
+============================================
+Lucro médio dos filmes:
+- Média do Lucro: $3,341,469.00
+============================================
+Distribuição de vendas de ingressos por região:
+- The Shawshank Redemption: Nacional: $15,000,000, Internacional: $13,341,469
+============================================
+Todos os prêmios e categorias de cada filme/série:
+- Academy Awards: 1995, Best Picture (Filme: The Shawshank Redemption)
+- Primetime Emmy Awards: 2013, Outstanding Drama Series (Série: Breaking Bad)
+============================================
+Filmes/séries que ganharam prêmios:
+- Breaking Bad
+============================================
+Os indicados ao prêmio de 'Melhor Filme' de cada ano:
+- 1995: Forrest Gump, Pulp Fiction, Four Weddings and a Funeral, Quiz Show
+============================================
+Comentário com mais votos úteis:
+- An absolute masterpiece of storytelling. (120 votos úteis)
+============================================
+A nota média dos filmes:
+- Média das Notas: 9.3
+============================================
+Todas as avaliações feitas antes de 2022:
+============================================
