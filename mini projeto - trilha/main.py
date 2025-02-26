@@ -72,12 +72,15 @@ with open(arquivo_txt, 'w', encoding='utf-8') as file:
     
     # Filtrar os filmes/séries disponíveis em 4K no Netflix:
     file.write("Filmes/séries disponíveis em 4K no Netflix:\n")
-    if movie['streaming'].get('Netflix', {}).get('available') and '4K' in movie['streaming']['Netflix']['resolution']:
-        file.write(f"- {movie['title']}\n")
-    if serie['streaming'].get('Netflix', {}).get('available') and '4K' in serie['streaming']['Netflix']['resolution']:
-        file.write(f"- {serie['title']}\n")
-    file.write("============================================\n")
 
+    if movie['streaming']['Netflix']['available'] and '4K' in movie['streaming']['Netflix']['resolution']:
+        file.write(f"- {movie['title']}\n")
+
+    if serie['streaming']['Netflix']['available'] and '4K' in serie['streaming']['Netflix']['resolution']:
+        file.write(f"- {serie['title']}\n")
+
+    file.write("============================================\n")
+    
     # Identificar plataformas onde um filme específico está disponível:
     titulo_filme = movie['title']
     file.write("Identificar plataformas onde um filme específico está disponível:\n")
