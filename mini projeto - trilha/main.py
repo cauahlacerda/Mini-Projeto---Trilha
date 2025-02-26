@@ -122,9 +122,9 @@ with open(arquivo_txt, 'w', encoding='utf-8') as file:
     file.write(f"- {', '.join(filming_locations)}\n")
     file.write("============================================\n")
 
-    # Listar os diretores de cada filme:
+    # Listar o diretor do filme
     file.write("Diretor do filme:\n")
-    file.write(f"- {movie['title']}: {', '.join(movie['directors'])}\n")
+    file.write(f"- {movie['title']}: {movie['directors'][0]}\n")
     file.write("============================================\n")
 
     # Obter o filme com maior receita na bilheteria (revenue):
