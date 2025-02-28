@@ -86,7 +86,7 @@ with open(arquivo_txt, 'w', encoding='utf-8') as file:
     file.write("Identificar plataformas onde um filme específico está disponível:\n")
     file.write(f"Filme: {titulo_filme}\n")
 
-    streaming = movie.get('streaming', {})
+    streaming = movie.get('streaming')
     platform = list(streaming.keys())[0] 
     details = streaming[platform] 
 
